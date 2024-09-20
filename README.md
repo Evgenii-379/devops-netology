@@ -4,7 +4,8 @@
 
 - ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20142228.png)
 - ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20143503.png)
-- ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20143503.png)
+- ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20143619.png)
+- ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20200629.png)
 
 
 - **/.terraform - эта запись игнорирует локальные каталоги, которые содержат кэшированные двоичные файлы поставщика и другие локальные файлы состояния, которые не нужно предоставлять в общий доступ.
