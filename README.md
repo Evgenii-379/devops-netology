@@ -8,11 +8,11 @@
 
 - ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20142228.png)
 - ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20143503.png)
-- ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20143619.png)
+- ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-21%20212729.png)
 - ![scrinshot](https://github.com/Evgenii-379/devops-netology/blob/main/Снимок%20экрана%202024-09-20%20200629.png)
 
 
-В .gitignore помещённом в каталоге terraform, будут игнорироваться файлы с буквосочетанием tf; именем terraform; расширением tf 
+В .gitignore помещённом в каталоге terraform, будут игнорироваться файлы с буквосочетанием tf; именем terraform; расширением tf; расширением log
  
 
 ## **Эксперимент с удалением и перемещением файлов (третий и четвёртый коммит)**
